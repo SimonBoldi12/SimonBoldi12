@@ -14,7 +14,7 @@ I build full-stack web apps — responsive React frontends with Spring Boot back
 - ⚛️ I build complete web applications — from React UI to Spring Boot REST APIs
 - 🔧 Experienced with JWT authentication, MySQL databases, Docker and AWS S3
 - 💼 Open to junior full-stack or frontend positions
-- 📍 Based in Nyíregyháza — open to **remote work**
+- 📍 Nyíregyháza → Budapest from September 2026 · open to remote work
 
 ---
 
