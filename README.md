@@ -52,7 +52,7 @@ Workout tracking application.
 
 ### 📊 GitHub Activity
 
-- 🗂️ 5 public repositories — including full-stack and client projects
+- 🗂️ 5 public repositories — including full-stack
 - ✅ 98 contributions in the last year
 - 💬 Main languages: JavaScript, Java, HTML
 - 📌 Pinned: GrandHotelOhio-FULL · GrandHotelOhio-BE · GrandHotelOhio-FE · gym-app
