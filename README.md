@@ -36,7 +36,7 @@ I build full-stack web apps — responsive React frontends with Spring Boot back
 Full-stack hotel booking app — built both the React frontend and Spring Boot backend. Features responsive admin panel, JWT authentication and AWS S3 image storage.
 `React` `Spring Boot` `MUI` `Docker` `AWS S3`
 
-**[JWT Webshop](https://github.com/SimonBoldi12/webshop)** 🚧 WIP
+*[JWT Webshop** 🚧 WIP
 Full-stack e-commerce app with cart, orders, protected routes and JWT authentication.
 `React` `Spring Boot` `MySQL` `Spring Security`
 
