@@ -46,7 +46,7 @@ Live client website with a custom JSON-based CMS and password-protected admin pa
 
 **[gym-app](https://github.com/SimonBoldi12/gym-app)**
 Workout tracking application.
-`JavaScript`
+`JavaScript` `React` `Spring Boot` `MUI`
 
 ---
 
