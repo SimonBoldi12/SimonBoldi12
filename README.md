@@ -22,7 +22,7 @@ I build full-stack web apps — responsive React frontends with Spring Boot back
 
 **Frontend:** React, JavaScript, HTML5, CSS3, Vite, MUI
 
-**Backend:** Java, Spring Boot, REST API, JWT, PHP
+**Backend:** Java, Spring Boot, REST API, JWT
 
 **Database:** MySQL, JPA/Hibernate, SQL
 
